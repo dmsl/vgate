@@ -50,7 +50,7 @@ Short description of the contents included in this release.
 - Search Box: Setup a custom search box through Google. Replace the respective javascript in the HTML files to make your new search box effective.
 - js/: contains the backend code for parsing Google Sheets (or local CSV)
 
-## CR (Course Responsive) Template
+## CR (Course Responsive) and (Academic Responsive) Templates
 
 Also check out the sister template designated for personal sites: https://github.com/dmsl/academic-responsive-template
 Also check out the sister template designated for courses: https://github.com/dmsl/course-responsive-template
