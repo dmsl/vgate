@@ -1,5 +1,7 @@
 # VGATE - Virtual Gate to an Online Conference
 
+http://vgate.cs.ucy.ac.cy/
+
 ## A Responsive HTML5/CSS3 Cloud Sheets Management system for managing an online conference.
 
 The original idea for setting up this project was to support the organization of the EDBTICDT21 conference https://edbticdt21.cs.ucy.ac.cy  with a web-based platform that enables conference organizers to plan the online conference using Spreadsheets. It comprises of: i) the Google sheet collaborative space (supporting versioning, user role management, invitations, etc.) to allow different roles to collaborate and plan the event in a user-friendly manner; ii) a mobile-friendly website that presents with minimum clutter are necessary information to the online attendees so that these remain focused and engaged during the event. VGATE finally also supports primitive zoom integration and licence management.
@@ -54,4 +56,6 @@ Also check out the sister template designated for personal sites: https://github
 Also check out the sister template designated for courses: https://github.com/dmsl/course-responsive-template
 
 ## Adopter Sites (in order we became aware of)
+
+More Information: http://vgate.cs.ucy.ac.cy/
 
