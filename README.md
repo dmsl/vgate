@@ -1,4 +1,4 @@
-# VGATE - Virtual Gate to an Online Conference
+# VGATE - An Online Conference Management tool supporting Zoom, Google-Sheets and a Responsive Web App.
 
 http://vgate.cs.ucy.ac.cy/
 
