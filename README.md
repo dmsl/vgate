@@ -57,5 +57,5 @@ Also check out the sister template designated for courses: https://github.com/dm
 
 ## Adopter Sites (in order we became aware of)
 
-More Information: http://vgate.cs.ucy.ac.cy/
+More Information: https://vgate.cs.ucy.ac.cy/
 
