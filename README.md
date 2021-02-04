@@ -1,10 +1,10 @@
 # VGATE - An Online Conference Management tool supporting Zoom, Google-Sheets and a Responsive Web App.
 
-http://vgate.cs.ucy.ac.cy/
+https://vgate.cs.ucy.ac.cy/
 
 ## A Responsive HTML5/CSS3 Cloud Sheets Management system for managing an online conference.
 
-The original idea for setting up this project was to support the organization of the EDBTICDT21 conference https://edbticdt21.cs.ucy.ac.cy  with a web-based platform that enables conference organizers to plan the online conference using Spreadsheets. It comprises of: i) the Google sheet collaborative space (supporting versioning, user role management, invitations, etc.) to allow different roles to collaborate and plan the event in a user-friendly manner; ii) a mobile-friendly website that presents with minimum clutter are necessary information to the online attendees so that these remain focused and engaged during the event. VGATE finally also supports primitive zoom integration and licence management.
+The original idea for setting up this project was to support the organization of the EDBTICDT21 conference https://edbticdt2021.cs.ucy.ac.cy  with a web-based platform that enables conference organizers to plan the online conference using Spreadsheets. It comprises of: i) the Google sheet collaborative space (supporting versioning, user role management, invitations, etc.) to allow different roles to collaborate and plan the event in a user-friendly manner; ii) a mobile-friendly website that presents with minimum clutter are necessary information to the online attendees so that these remain focused and engaged during the event. VGATE finally also supports primitive zoom integration and licence management.
 
 This template is implemented in Bootstrap (a popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web). The template has been tested on iOS, Windows Phone, Android, Chrome, Safari and other browsers. Some of its features require external free components (e.g., Google Custom Search for site-search). You will need to edit the sources with a text editor or a capable WYSIWYG editor.
 
