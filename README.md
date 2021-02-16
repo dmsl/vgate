@@ -19,7 +19,7 @@ All rights reserved.
 
 ## Creative Commons CC BY 4.0 licence 
 
-VGATE is open to reuse under a CC BY 4.0 licence. This license lets others distribute, remix, tweak, and build upon AR even commercially, as long as they credit the original creation in the footer of the site. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
+VGATE is open to reuse under a CC BY 4.0 licence. This license lets others distribute, remix, tweak, and build upon VGATE even commercially, as long as they credit the original creation in the footer of the site. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
 More: http://creativecommons.org/licenses/by/4.0/legalcode
 
@@ -47,8 +47,12 @@ To use VGATE, you are required to use the following code at the end of your depl
 Short description of the contents included in this release.
 
 - index.html : Contains most of the website material (single-page layout). Change this accordingly
-- Search Box: Setup a custom search box through Google. Replace the respective javascript in the HTML files to make your new search box effective.
-- js/: contains the backend code for parsing Google Sheets (or local CSV)
+- /vgate/vgate.js: contains client-side code for parsing Google Sheets (or local CSV), receiving time, receiving zoom status updates, google search
+- /vgate/custom.js: Custom JS + Custom search box through Google. Replace the respective javascript in the HTML files to make your new search box effective.
+- /zoom: contains server-side code for receiving Zoom Webhooks - Notifications (through Zoom API) 
+- /clock: contains server-side code for generating time (received every 15sec by js/vgate.js)
+- /fonts, /css, /images: Website styling
+- /photos: custom photos of the event
 
 ## CR (Course Responsive) and (Academic Responsive) Templates
 
